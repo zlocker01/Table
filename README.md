@@ -4,6 +4,8 @@ Practica elaborado una Tabla pero con algunas mejoras gracias a CSS para que no 
 
 ## Autor ✒️
 
+https://zlocker01.github.io/Table/
+
 Diego Beristain de la Mora
 
 ## Ver Proyecto en vivo 👁️
